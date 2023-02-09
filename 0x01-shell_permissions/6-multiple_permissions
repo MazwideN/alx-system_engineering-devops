@@ -1,2 +1,2 @@
-##!bin/bash
-chmod ug4+x hello
+#!bin/bash
+chmod ugr+x hello
